@@ -1,0 +1,16 @@
+{
+  "name": "pai-bot-js-container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/@pai-tech/pai-bot/PAI.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pai-tech/pai-bot": "^1.0.40"
+  }
+}

@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pai-tech/pai-bot": "^1.0.40"
+    "@pai-tech/pai-bot": "^1.0.40",
+    "npm": "^6.13.4"
   }
 }

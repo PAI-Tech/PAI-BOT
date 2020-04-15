@@ -1,16 +1,16 @@
 {
-  "name": "pai-bot-js-container",
+  "name": "pai-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node node_modules/@pai-tech/pai-bot/PAI.js",
+    "bot": "node node_modules/@pai-tech/pai-bot/PAI.js",
     "init": "node node_modules/@pai-tech/pai-bot/init.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "dependencies": {
     "@pai-tech/pai-bot": "^1.0.40",
     "npm": "^6.13.4"

@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "bot": "node node_modules/@pai-tech/pai-bot/PAI.js",
-    "init": "node node_modules/@pai-tech/pai-bot/init.js"
+    "init": "node node_modules/@pai-tech/pai-bot/init.js",
+    "config": "node config-generator.js"
   },
   "keywords": [],
   "author": "",

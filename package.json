@@ -13,7 +13,7 @@
   "author": "",
   "license": "GPL-3.0",
   "dependencies": {
-    "@pai-tech/pai-bot": "^1.6.6",
+    "@pai-tech/pai-bot": "^1.6.7",
     "npm": "^6.14.8"
   }
 }

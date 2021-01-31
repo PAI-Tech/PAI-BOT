@@ -1,6 +1,6 @@
 {
   "name": "pai-bot",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,7 @@
     "bot": "node node_modules/@pai-tech/pai-bot/PAI.js",
     "bot-win": "node node_modules/@pai-tech/pai-bot/PAI.js",
     "init": "node node_modules/@pai-tech/pai-bot/init.js",
+    "pai-code": "node node_modules/@pai-tech/pai-bot/pai-code-run.js",
     "config": "node node_modules/@pai-tech/pai-bot/config-generator.js"
   },
   "keywords": [],

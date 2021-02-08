@@ -8,7 +8,7 @@
     "bot": "node node_modules/@pai-tech/pai-bot/PAI.js",
     "bot-win": "node node_modules/@pai-tech/pai-bot/PAI.js",
     "pai-code": "node node_modules/@pai-tech/pai-bot/src/scripts/pai-code-run.js",
-    "config": "node node_modules/@pai-tech/pai-bot/src/scripts/config-generator.js"
+    "config": "node node_modules/@pai-tech/pai-bot/src/scripts/config-generator.js",
     "pai-net": "node node_modules/@pai-tech/pai-bot/src/scripts/config-pai-net.js"
   },
   "keywords": [],

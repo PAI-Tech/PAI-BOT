@@ -16,8 +16,9 @@ The Bot must live in a PAI Environment OS - (Read more about PAI Environment)
 
  1. Download the project 
  2. Run `npm install` to install node modules.
- 3. For the first time only run `npm run init` to configure your pai-bot and connect it to a pai-net (distributed network)
- 4. Run `npm run bot` to run your pai-bot
+ 3. For the first time only run `npm run config` to configure your pai-bot
+ 4. To connect the pai-bot to a  pai-net (distributed network) run `npm run pai-net`
+ 5. Run `npm run bot` to run your pai-bot
 
 
 ## For more information
